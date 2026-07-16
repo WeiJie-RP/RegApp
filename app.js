@@ -14,7 +14,7 @@ const db = mysql.createConnection({
     host: 'c237-hannah-mysql.mysql.database.azure.com',
     user: 'c237_016',
     password: 'c237016@2026!',
-    database: 'C237_016_t3regapp',
+    database: 'C237_016_t3supdb',
     ssl: {
         rejectUnauthorized: false
     }
